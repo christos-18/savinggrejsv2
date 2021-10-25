@@ -1,0 +1,16 @@
+C:\Users\christos.potamitis\Documents\git\savinggrejsv2\savinggrejsv2\bin\Debug\net5.0\savinggrejsv2.exe
+C:\Users\christos.potamitis\Documents\git\savinggrejsv2\savinggrejsv2\bin\Debug\net5.0\savinggrejsv2.deps.json
+C:\Users\christos.potamitis\Documents\git\savinggrejsv2\savinggrejsv2\bin\Debug\net5.0\savinggrejsv2.runtimeconfig.json
+C:\Users\christos.potamitis\Documents\git\savinggrejsv2\savinggrejsv2\bin\Debug\net5.0\savinggrejsv2.runtimeconfig.dev.json
+C:\Users\christos.potamitis\Documents\git\savinggrejsv2\savinggrejsv2\bin\Debug\net5.0\savinggrejsv2.dll
+C:\Users\christos.potamitis\Documents\git\savinggrejsv2\savinggrejsv2\bin\Debug\net5.0\ref\savinggrejsv2.dll
+C:\Users\christos.potamitis\Documents\git\savinggrejsv2\savinggrejsv2\bin\Debug\net5.0\savinggrejsv2.pdb
+C:\Users\christos.potamitis\Documents\git\savinggrejsv2\savinggrejsv2\obj\Debug\net5.0\savinggrejsv2.csprojAssemblyReference.cache
+C:\Users\christos.potamitis\Documents\git\savinggrejsv2\savinggrejsv2\obj\Debug\net5.0\savinggrejsv2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\christos.potamitis\Documents\git\savinggrejsv2\savinggrejsv2\obj\Debug\net5.0\savinggrejsv2.AssemblyInfoInputs.cache
+C:\Users\christos.potamitis\Documents\git\savinggrejsv2\savinggrejsv2\obj\Debug\net5.0\savinggrejsv2.AssemblyInfo.cs
+C:\Users\christos.potamitis\Documents\git\savinggrejsv2\savinggrejsv2\obj\Debug\net5.0\savinggrejsv2.csproj.CoreCompileInputs.cache
+C:\Users\christos.potamitis\Documents\git\savinggrejsv2\savinggrejsv2\obj\Debug\net5.0\savinggrejsv2.dll
+C:\Users\christos.potamitis\Documents\git\savinggrejsv2\savinggrejsv2\obj\Debug\net5.0\ref\savinggrejsv2.dll
+C:\Users\christos.potamitis\Documents\git\savinggrejsv2\savinggrejsv2\obj\Debug\net5.0\savinggrejsv2.pdb
+C:\Users\christos.potamitis\Documents\git\savinggrejsv2\savinggrejsv2\obj\Debug\net5.0\savinggrejsv2.genruntimeconfig.cache

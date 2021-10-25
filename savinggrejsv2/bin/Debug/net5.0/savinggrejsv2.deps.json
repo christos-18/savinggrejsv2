@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "savinggrejsv2/1.0.0": {
+        "runtime": {
+          "savinggrejsv2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "savinggrejsv2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
